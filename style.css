@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(38, 110, 110);
+    /* background-color: rgb(38, 110, 110); */
     /* background-image: url(images/1_nLa-Cstqw2bW2ZWs693gBg\(1\).png); */
     /* background-repeat: no-repeat; */
     /* background-size: cover; */
@@ -38,7 +38,7 @@ body {
     opacity:0.6;
 }
 
-#logo {
+#logo_1 {
     /* font-family: cursive; */
     /* color: blue; */
 }
@@ -76,6 +76,11 @@ ul{
     /* list-style-position: inside; */
     /* list-style-position: outside; */
     /* list-style-image:url(images/1_nLa-Cstqw2bW2ZWs693gBg\(1\).png); */
-    
 
+
+}
+
+.sample_image{
+/* left: 50px; */
+/* right: 100px; */
 }
