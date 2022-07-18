@@ -24,21 +24,58 @@ body {
 
 }
 
-.H2class {
+.h2class {
     /* text-align is for alignment of the element */
     /* text-align: right; */
     /* text-align: justify; */
-    /* text-align: center; */
+    text-align: center;
     /* text-align: left; */
     /* text-align:end; */
 
-    /* font-family: 'Gill Sans'; */
+    font-family: 'Gill Sans';
     /* font-style: oblique; */
-    /* text-decoration:underline; */
-    /* opacity:0.6; */
+    text-decoration:underline;
+    opacity:0.6;
 }
 
 #logo {
     /* font-family: cursive; */
     /* color: blue; */
+}
+
+.info {
+    text-align: right;
+    text-transform: capitalize;
+    text-decoration: overline;
+    font-family: monospace;
+    font-size: 16px;
+    font-style: italic;
+    color: tomato;
+
+    /* position is used for the position of the element */
+    /* position: absolute; */
+    position: relative;
+    /* left: 100px; */
+    /* right: 100px; */
+    /* position: fixed; */
+    /* bottom: 100px; */
+    /* top: 10px; */
+    /* position: static; */
+
+   /* word spacing and letter-spacing is used for space between words and letter,line-height is used for  height of the between line    */
+    /* word-spacing: 150px; */
+    /* letter-spacing: 4px; */
+    /* line-height: 150px; */
+}
+
+ul{
+    /* list-style: circle; */
+    /* list-style: disc; */
+    /* list-style: armenian; */
+    /* list-style: georgian; */
+    /* list-style-position: inside; */
+    /* list-style-position: outside; */
+    /* list-style-image:url(images/1_nLa-Cstqw2bW2ZWs693gBg\(1\).png); */
+    
+
 }
