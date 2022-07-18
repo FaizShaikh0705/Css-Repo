@@ -1,6 +1,8 @@
-body{
-    background-color: aqua;
-
+body {
+    background-color: rgb(38, 110, 110);
+    /* background-image: url(images/1_nLa-Cstqw2bW2ZWs693gBg\(1\).png); */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
 }
 
 
@@ -20,5 +22,23 @@ body{
     /* text-decoration: overline; */
     /* text-decoration: none */
 
+}
 
+.H2class {
+    /* text-align is for alignment of the element */
+    /* text-align: right; */
+    /* text-align: justify; */
+    /* text-align: center; */
+    /* text-align: left; */
+    /* text-align:end; */
+
+    /* font-family: 'Gill Sans'; */
+    /* font-style: oblique; */
+    /* text-decoration:underline; */
+    /* opacity:0.6; */
+}
+
+#logo {
+    /* font-family: cursive; */
+    /* color: blue; */
 }
